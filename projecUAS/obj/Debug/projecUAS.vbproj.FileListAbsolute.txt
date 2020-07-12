@@ -1,0 +1,12 @@
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\bin\Debug\projecUAS.exe.config
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\bin\Debug\projecUAS.exe
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\bin\Debug\projecUAS.pdb
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\bin\Debug\projecUAS.xml
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.Form1.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.Resources.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.exe
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.xml
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.pdb
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.Form2.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2012\Projects\Latihan 3\projecUAS\projecUAS\obj\Debug\projecUAS.Form3.resources
